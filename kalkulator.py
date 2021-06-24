@@ -30,7 +30,7 @@ while (ulang != 'n'):
 ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 ''')
 	print(G+'[Program kalkulator dibuat oleh alanward]')
-	print(R+'====[copyright \N{COPYRIGHT SIGN} 2021]====')
+	print(R+'-----====[copyright \N{COPYRIGHT SIGN} 2021]====-----')
 	print(Y+B+'''
 Opsi:
 
